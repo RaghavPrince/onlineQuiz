@@ -5,7 +5,8 @@ It is done using the concept of html for the front end and the backend  database
 
 #
 PROJECT REQUIREMENTS
-1.1 Functional Requirements
+
+#1.1 Functional Requirements
 Teacher:
 1.	Can create quiz after getting logged in. 
 2.	Can enter subjects and enter question with its options and answer at the time of creating quiz. 
@@ -16,7 +17,7 @@ Student:
 3.	After completing all questions, result will be displayed Automatically. 
 4.	Can view the description about each and every question in the respective quiz. 
 
-1.2 Non Functional Requirements 
+#1.2 Non Functional Requirements 
 Performance Requirements
 Some Performance requirements identified is listed below: 
 	The database shall be able to accommodate a minimum of 10,000 records of students. 
